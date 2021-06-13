@@ -38,7 +38,8 @@ Provide CSV in a key in form-data while submitting the request
 https://assignmentsservice-sueoei3pla-uc.a.run.app/upload
 
 ### Upload csv sample 
-![img_7.png](img_7.png)
+![file_tt](https://user-images.githubusercontent.com/84538282/121793681-9d244200-cbcf-11eb-9458-0411b3339293.PNG)
+
 
 
 ### Pipeline 1 Operation:
