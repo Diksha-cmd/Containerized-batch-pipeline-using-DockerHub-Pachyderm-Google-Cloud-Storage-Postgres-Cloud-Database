@@ -3,9 +3,8 @@ name: ci
 on:
   push:
     branches: 
-      - master
-      - dev
-
+      - main
+      
 jobs:
 
   tests:
@@ -23,7 +22,7 @@ jobs:
 
     - name: Build and push
       run: |-
-        cd pipeline1 && docker build -t dwhitena/mgmt590-gcs:${{  github.sha }} .
-        docker push dwhitena/mgmt590-gcs:${{  github.sha }} && cd ../
-        cd pipeline2 && docker build -t dwhitena/mgmt590-sql:${{  github.sha }} .
-        docker push dwhitena/mgmt590-sql:${{  github.sha }}
+        cd pipeline1 && docker build -t tiwarid/mgmt590-gcs:${{  github.sha }} .
+        docker push tiwarid/mgmt590-gcs:${{  github.sha }} && cd ../
+        cd pipeline2 && docker build -t tiwarid/mgmt590-sql:${{  github.sha }} .
+        docker push tiwarid/mgmt590-sql:${{  github.sha }}
