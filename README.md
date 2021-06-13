@@ -189,14 +189,16 @@ https://hub.pachyderm.com/
 
 #### Using Pachyderm Hub Workspace
 
-![img_1_1](https://user-images.githubusercontent.com/84538282/121793964-22a8f180-cbd2-11eb-8f7f-27b559548ae0.PNG)
+![img_1_1](https://user-images.githubusercontent.com/84538282/121794018-e4f89880-cbd2-11eb-97ef-4c0c519ed439.PNG)
+
 
 #### Created pipelines must look like this: 
-![img_2_2](https://user-images.githubusercontent.com/84538282/121793968-276da580-cbd2-11eb-811f-5607d45d0479.PNG)
+
+![img_2_2](https://user-images.githubusercontent.com/84538282/121794026-efb32d80-cbd2-11eb-9ec6-2d785a8c12a8.PNG)
 
 #### An output repo of first pipeline must be visible 
 
-![img_3_3](https://user-images.githubusercontent.com/84538282/121793970-2c325980-cbd2-11eb-95f3-34036a903560.PNG)
+![img_3_3](https://user-images.githubusercontent.com/84538282/121794029-f5a90e80-cbd2-11eb-9610-ce1a5a753103.PNG)
 
 #### Using LINUX
 
