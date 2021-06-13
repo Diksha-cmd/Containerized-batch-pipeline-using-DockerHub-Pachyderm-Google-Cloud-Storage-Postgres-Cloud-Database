@@ -126,7 +126,6 @@ Refer : https://docs.pachyderm.com/latest/getting_started/local_installation/#in
 ####  Copy below files to your local system (where pachtcl is installed)
 
   - create_secret.sh 
-  - create_secret_db.sh
   - secret_template.json
   - secret_template_db.jso
   - credentials.json <your service account for google cloud storage>
