@@ -5,7 +5,7 @@
   "description": "A pipeline that pushes answers to the database",
   "transform": {
     "cmd": [ "python", "sql.py" ],
-    "image": "dwhitena/mgmt590-sql",
+    "image": "tiwarid/mgmt590-sql",
     "secrets": [ 
       {
         "name": "dbaccess",

@@ -11,7 +11,7 @@
       "export GOOGLE_APPLICATION_CREDENTIALS=/app/creds.json",
       "python /app/gcs.py"
     ],
-    "image": "dwhitena/mgmt590-gcs:5762b7372b2feb7cff9b2cec475d85e8c0c37a53",
+    "image": "tiwarid/mgmt590-gcs:5762b7372b2feb7cff9b2cec475d85e8c0c37a53",
     "secrets": [ {
         "name": "gcsaccess",
         "env_var": "GCS_ACCESS",
