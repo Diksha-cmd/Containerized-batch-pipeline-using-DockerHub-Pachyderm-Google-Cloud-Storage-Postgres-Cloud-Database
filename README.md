@@ -150,7 +150,6 @@ export PG_SSL_CLIENT_KEY=<POSTGRES-DATABASE-HOST>
 ####  Now execute the scripts to create secrets for pachctl
    ```
       ./create_secret.sh
-      ./create_secret_db.sh
    ```
 ####  Verify whether secrets are created or not 
   ```
