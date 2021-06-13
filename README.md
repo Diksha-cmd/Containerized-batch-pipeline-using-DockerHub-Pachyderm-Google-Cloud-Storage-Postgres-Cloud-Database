@@ -189,15 +189,14 @@ https://hub.pachyderm.com/
 
 #### Using Pachyderm Hub Workspace
 
-![img_1](https://user-images.githubusercontent.com/84538282/121793784-86321f80-cbd0-11eb-9d4a-9a802fc6bf66.png)
+![img_1_1](https://user-images.githubusercontent.com/84538282/121793964-22a8f180-cbd2-11eb-8f7f-27b559548ae0.PNG)
 
 #### Created pipelines must look like this: 
-
-![img_2](https://user-images.githubusercontent.com/84538282/121793788-8d592d80-cbd0-11eb-8657-80b5d847481f.png)
+![img_2_2](https://user-images.githubusercontent.com/84538282/121793968-276da580-cbd2-11eb-811f-5607d45d0479.PNG)
 
 #### An output repo of first pipeline must be visible 
 
-![img_3](https://user-images.githubusercontent.com/84538282/121793793-934f0e80-cbd0-11eb-96b0-40378d968a26.png)
+![img_3_3](https://user-images.githubusercontent.com/84538282/121793970-2c325980-cbd2-11eb-95f3-34036a903560.PNG)
 
 #### Using LINUX
 
@@ -206,17 +205,17 @@ https://hub.pachyderm.com/
    pachctl list pipeline  
 ```
 
-![img_4](https://user-images.githubusercontent.com/84538282/121793799-99dd8600-cbd0-11eb-85e2-87ab1db27fbf.png)
+![img_4_4](https://user-images.githubusercontent.com/84538282/121793971-318fa400-cbd2-11eb-90a6-2c4aabe70651.PNG)
 
 ```
 -- -- check the list of jobs
    pachctl list job
 ```
-![img_5](https://user-images.githubusercontent.com/84538282/121793805-a06bfd80-cbd0-11eb-88b9-f8c9fee7ef9b.png)
+![img_5_5](https://user-images.githubusercontent.com/84538282/121793972-36545800-cbd2-11eb-8f78-d907612bdebb.PNG)
 
 ```
 -- to view logs 
     pachctl logs -j <04946105f1e44dc091ebce097f6ad567>
 ```
 
-![img_6](https://user-images.githubusercontent.com/84538282/121793810-a9f56580-cbd0-11eb-9595-957931a5c3b4.png)
+![img_6_6](https://user-images.githubusercontent.com/84538282/121793973-3bb1a280-cbd2-11eb-9392-079a5e661831.PNG)
