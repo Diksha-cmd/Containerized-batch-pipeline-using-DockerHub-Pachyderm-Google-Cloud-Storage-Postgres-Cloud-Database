@@ -4,7 +4,7 @@
   },
   "description": "A pipeline that pushes answers to the database",
   "transform": {
-    "cmd": [ "python", "sql.py" ],
+    "cmd": [ "python", "pipeline2.py" ],
     "image": "tiwarid/mgmt590-sql",
     "secrets": [ 
       {
